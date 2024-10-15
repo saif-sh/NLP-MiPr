@@ -1,0 +1,40 @@
+text,latitude,longitude,disaster_type,severity
+"Severe flooding reported in Mumbai, many areas submerged.", 19.0760, 72.8777,Flood,9
+"An earthquake of magnitude 6.5 was felt in Los Angeles.", 34.0522, -118.2437,Earthquake,7
+"Fire at a local factory in London, emergency services on site.", 51.5074, -0.1278,Fire,8
+"Flooding in New York City causing delays in public transport.", 40.7128, -74.0060,Flood,6
+"Minor tremors felt in Tokyo, no damage reported yet.", 35.6762, 139.6503,Earthquake,4
+"Wildfire alert in California, residents advised to evacuate.", 36.7783, -119.4179,Fire,10
+"Clear skies and perfect weather in Delhi today!", 28.6139, 77.2090,Control,2
+"Just finished a lovely dinner in Bangalore, feeling great!", 12.9716, 77.5946,Control,1
+"Flood warnings in Miami, residents urged to prepare.", 25.7617, -80.1918,Flood,8
+"Small fire reported in a restaurant in San Francisco.", 37.7749, -122.4194,Fire,5
+"High winds and rain expected in Chicago, potential flooding.", 41.8781, -87.6298,Flood,7
+"An earthquake caused minor damages in Mexico City.", 19.4326, -99.1332,Earthquake,5
+"Smoke visible in parts of Seattle due to nearby wildfires.", 47.6062, -122.3321,Fire,6
+"Cool breezy day in Sydney, perfect for a walk!", -33.8688, 151.2093,Control,2
+"Major flooding in Houston, emergency services deployed.", 29.7604, -95.3698,Flood,10
+"Severe drought conditions reported in Cape Town.", -33.9249, 18.4241,Control,3
+"Earthquake drills conducted in schools across Jakarta.", -6.2088, 106.8456,Earthquake,3
+"Flooding in Bangkok after heavy rains last night.", 13.7563, 100.5018,Flood,7
+"Wildfire spreading in Oregon, several homes evacuated.", 43.8041, -120.5542,Fire,9
+"Unusual snowstorm forecasted for Denver this weekend.", 39.7392, -104.9903,Control,4
+"Severe thunderstorm warning issued for Atlanta.", 33.4484, -84.2941,Flood,5
+"Gas leak reported in a shopping center in Toronto.", 43.6532, -79.3832,Fire,6
+"Light rain expected in Paris, no flooding anticipated.", 48.8566, 2.3522,Control,2
+"Rescue operations ongoing after floods in Chennai.", 13.0827, 80.2707,Flood,9
+"Multiple landslides reported in hilly areas of Nepal.", 28.3949, 84.1240,Earthquake,8
+"High alert for wildfires in the Mediterranean region.", 37.8269, 15.2908,Fire,7
+"Sunny day in Rio de Janeiro, perfect for beach activities.", -22.9068, -43.1729,Control,1
+"Severe flooding reported in Manila, evacuations underway.", 14.5995, 120.9842,Flood,10
+"Minor fires in agricultural fields reported in Punjab.", 31.1471, 75.3412,Fire,3
+"Light earthquake shakes New Delhi, no damages reported.", 28.6139, 77.2090,Earthquake,2
+"Heavy rains expected in Mumbai, flood alerts issued.", 19.0760, 72.8777,Flood,8
+"Thunderstorm warning in Boston, possible flooding.", 42.3601, -71.0589,Flood,5
+"Evacuation orders in place due to wildfires in Colorado.", 39.5501, -105.7821,Fire,9
+"Chilly weather in London, a nice break from the heat!", 51.5074, -0.1278,Control,2
+"Severe hailstorm hit parts of Texas last night.", 31.9686, -99.9018,Control,6
+"Flood recovery efforts ongoing in Jakarta after heavy rains.", -6.2088, 106.8456,Flood,7
+"Smoke from wildfires impacting air quality in Phoenix.", 33.4484, -112.0740,Fire,8
+"Unusual summer snowfall in parts of Moscow, very rare!", 55.7558, 37.6173,Control,4
+
